@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/alexm8002/UTM_OTA/releases/download/2.0b5/UTM.ipa</string>
+		<string>https://github.com/alexm8002/UTM_OTA/releases/download/2.0b4/UTM.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://github.com/alexm8002/UTM_OTA/raw/master/UTM.png</string>
 		<key>fullSizeImageURL</key>

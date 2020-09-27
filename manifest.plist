@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/1cwQAI4bMi_CjYhiNcXThQzwsB1wlZhnV/view?usp=sharing</string>
+					<string>https://github.com/alexm8002/UTM_OTA/releases/download/2.0b4/UTM.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/10fuAB37zQ6R--Y1yGlkGEtiOXWhxEqee/view?usp=sharing</string>
+					<string>https://github.com/alexm8002/UTM_OTA/raw/master/UTM.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/1hHxoY3Q8k_m6MBWHTDJRB9e_snm9fENT/view?usp=sharing</string>
+					<string>https://github.com/alexm8002/UTM_OTA/raw/master/UTMgd.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

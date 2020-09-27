@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://drive.google.com/drive/folders/1fw4gxrPlSpwZiJUqsR0DNI_YjXRVcTvj/UTM.ipa</string>
+		<string>https://github.com/alexm8002/UTM_OTA/releases/download/2.0b4/UTM.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://drive.google.com/drive/folders/1fw4gxrPlSpwZiJUqsR0DNI_YjXRVcTvj/UTM.png</string>
+		<string>https://github.com/alexm8002/UTM_OTA/raw/master/UTM.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://drive.google.com/drive/folders/1fw4gxrPlSpwZiJUqsR0DNI_YjXRVcTvj/UTMgd.png</string>
+		<string>https://github.com/alexm8002/UTM_OTA/raw/master/UTMgd.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
